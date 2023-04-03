@@ -1,0 +1,118 @@
+Statistic,Category
+Goals,
+Assists,
+Goals + Assists,
+Non-Penalty Goals,
+Penalty Kicks Made,
+Penalty Kicks Attempted,
+Yellow Cards,
+Red Cards,
+xG,
+Non-Penalty xG,
+xAG,
+npxG + xAG,
+Progressive Carries,Possession
+Progressive Passes,Possession
+Progressive Passes Rec,Possession
+Shots Total,Shooting
+Shots on target,Shooting
+Shots on target %,Shooting
+Goals/Shot,Shooting
+Goals/Shot on target,Shooting
+Average Shot Distance,Shooting
+Shots from free kicks,Shooting
+npxG/Sh,Shooting
+Goals - xG,Shooting
+Non-Penalty Goals - npxG,Shooting
+Passes Completed,Passing
+Passes Attempted,Passing
+Pass Completion %,Passing
+Total Passing Distance,Passing
+Progressive Passing Distance,Passing
+Passes Completed (Short),Passing
+Passes Attempted (Short),Passing
+Pass Completion % (Short),Passing
+Passes Completed (Medium),Passing
+Passes Attempted (Medium),Passing
+Pass Completion % (Medium),Passing
+Passes Completed (Long),Passing
+Passes Attempted (Long),Passing
+Pass Completion % (Long),Passing
+Expected Assists,Passing
+Key Passes,Passing
+Passes into Final Third,Passing
+Passes into Penalty Area,Passing
+Crosses into Penalty Area,Passing
+Live-ball passes,Passing
+Dead-ball passes,Passing
+Passes from Free Kicks,Passing
+Through Balls,Passing
+Switches,Passing
+Crosses,Passing
+Throw-Ins taken,Passing
+Corner Kicks,Passing
+Inswinging Corner Kicks,Passing
+Outswinging Corner Kicks,Passing
+Straight Corner Kicks,Passing
+Passes Offside,Passing
+Passes Blocked,Passing
+Shot-Creating Actions,Goal & Shot Creation
+SCA (PassLive),Goal & Shot Creation
+SCA (PassDead),Goal & Shot Creation
+SCA (TO),Goal & Shot Creation
+SCA (Sh),Goal & Shot Creation
+SCA (Fld),Goal & Shot Creation
+SCA (Def),Goal & Shot Creation
+Goal-Creating Actions,Goal & Shot Creation
+GCA (PassLive),Goal & Shot Creation
+GCA (PassDead),Goal & Shot Creation
+GCA (TO),Goal & Shot Creation
+GCA (Sh),Goal & Shot Creation
+GCA (Fld),Goal & Shot Creation
+GCA (Def),Goal & Shot Creation
+Tackles,Defensive
+Tackles Won,Defensive
+Tackles (Def 3rd),Defensive
+Tackles (Mid 3rd),Defensive
+Tackles (Att 3rd),Defensive
+Dribblers Tackled,Defensive
+Dribbles Challenged,Defensive
+% of dribblers tackled,Defensive
+Challenges Lost,Defensive
+Blocks,Defensive
+Shots Blocked,Defensive
+Interceptions,Defensive
+Tkl+Int,Defensive
+Clearances,Defensive
+Errors,Defensive
+Touches,Possession
+Touches (Def Pen),Possession
+Touches (Def 3rd),Possession
+Touches (Mid 3rd),Possession
+Touches (Att 3rd),Possession
+Touches (Att Pen),Possession
+Touches (Live-Ball),Possession
+Take-Ons Attempted,Defensive
+Successful Take-Ons,Defensive
+Successful Take-On %,Defensive
+Times Tackled During Take-On,Defensive
+Tackled During Take-On Percentage,Defensive
+Carries,Defensive
+Total Carrying Distance,Defensive
+Progressive Carrying Distance,Defensive
+Carries into Final Third,Defensive
+Carries into Penalty Area,Defensive
+Miscontrols,Defensive
+Dispossessed,Defensive
+Passes Received,Defensive
+Second Yellow Card,Defensive
+Fouls Committed,Defensive
+Fouls Drawn,Defensive
+Offsides,Defensive
+Penalty Kicks Won,Defensive
+Penalty Kicks Conceded,Defensive
+Own Goals,Defensive
+Ball Recoveries,Defensive
+Aerials won,Defensive
+Aerials lost,Defensive
+% of Aerials Won,Defensive
